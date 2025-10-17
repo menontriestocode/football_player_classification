@@ -53,13 +53,7 @@ The workflow follows a structured process: data collection, cleaning, feature en
 
 ---
 
-## 4. Repository Contents
-Golden-Foot-Classification/
-├── golden_foot_classification.ipynb     # Jupyter notebook with full implementation
-├── README.md                            # Project documentation
----
-
-## 5. Methodology
+## 4. Methodology
 
 1. **Data Acquisition**  
    - Images of target football players collected through automated and manual scraping.  
@@ -88,7 +82,7 @@ Golden-Foot-Classification/
 
 ---
 
-## 6. Results
+## 5. Results
 
 - Achieved high classification accuracy across five footballers.  
 - Demonstrated consistent recognition under varied lighting and poses.  
@@ -96,7 +90,7 @@ Golden-Foot-Classification/
 
 ---
 
-## 7. Future Enhancements
+## 6. Future Enhancements
 
 - Extend dataset to include additional players and diverse image sources.  
 - Integrate deep learning architectures (CNNs, transfer learning using VGG16 or ResNet).  
@@ -105,7 +99,7 @@ Golden-Foot-Classification/
 
 ---
 
-## 8. Author
+## 7. Author
 
 **Vignesh Suresh Menon**  
 B.Tech Data Science, Final Year  
@@ -115,7 +109,7 @@ Phone: +91 8977637177
 
 ---
 
-## 9. License
+## 8. License
 
 This project is intended for educational and research purposes.  
 All player images remain the property of their respective owners and are used strictly under fair-use academic demonstration.
